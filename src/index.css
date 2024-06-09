@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+
+
+a {
+  text-decoration: none;
+  
+}
+
+
+
+main{
+  background-color: transparent;
+  margin-left: 20%;
+  margin-right: 10%;
+  margin-top: 2%;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+
+body{
+  background: url('./assets/pawel-czerwinski-xepJVQ1olMY-unsplash.jpg') no-repeat;
+  background-position:center;
+  background-size: cover;
+  min-height: 100vh;
+  
+}
