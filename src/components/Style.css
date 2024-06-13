@@ -17,13 +17,12 @@
     top : 0;
     left : 0;
     width :100%;
-    
     padding: 20px 10%;
     background-color: transparent;
     display : block;
     justify-content: space-between;
     align-items: center;
-    z-index: 100%;
+  
 }
 .header img{
     position: relative;
@@ -34,7 +33,9 @@
 }
  .simg {
     height: 20px;
-    position: relative;
+    position: absolute;
+    top:40px;
+    right :200px;
 }
 
 .me{

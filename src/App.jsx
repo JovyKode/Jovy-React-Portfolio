@@ -5,9 +5,8 @@ import { Route, Routes } from 'react-router-dom'
 import  Home from './components/Home.jsx'
 import Nav from  './components/Nav.jsx'
 import Projects from './components/Projects.jsx'
-import Resume from './components/Resume.jsx'
 import Services from './components/Services.jsx'
-import Shop from './components/Shop.jsx'
+import Contact from './components/Contact.jsx'
 
 
 function App() {
@@ -20,15 +19,12 @@ function App() {
       <Routes>
             {/*header nav*/}
             <Route path='/' element={<Home />} />
-            <Route path='Shop' element={<Shop />}/>
+            <Route path='Contact' element={<Contact />}/>
             <Route path='Projects' element={<Projects />}></Route>
-            <Route path='Resume' element={<Resume />}></Route>
             <Route path='Services' element={<Services />}></Route>
-            {/*body nav*
-            <Route path='Resume' element={<Resume />}/>
-  <Route path='Contact' element={<Contact />}/>*/}
+           
       </Routes>
-    
+      <div className='bottom-header'>WEBSITE UNDER CONSTRUCTION </div>
     </>
 
   )
