@@ -27,8 +27,7 @@ const Home = () => {
                     time that i can do anything as long as you give me enough time 
                     and i'll get it done on time.  
                     <br /><br />
-                    Qoute : having nothing to do leaves your mind vulnerable to depression 
-                    and other mental illness because of and unoccupied brain.
+                   
                 </p>
                 <h3>General Overview</h3>
                 <p>
