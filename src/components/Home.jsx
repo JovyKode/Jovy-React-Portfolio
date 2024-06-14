@@ -46,12 +46,6 @@ const Home = () => {
                                 
                 </ul>   
 
-                <h3>Resume</h3>
-                <p>Here is my resume for any body asking along with my working status.</p>
-                <p>Working status : unenployed </p>
-                <p>Seeking job : Always </p>
-                <p>Resume : </p>
-
                 <h3>Certificates</h3>
                 <p>These are certificates I earned by studying coding concepts and languages.</p>
                 <div className='image-grid'>
