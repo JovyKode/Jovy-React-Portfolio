@@ -32,10 +32,11 @@
     
 }
  .simg {
+
     height: 20px;
     position: absolute;
-    top:40px;
-    right :200px;
+    top:40%;
+    right :10%;
 }
 
 .me{
