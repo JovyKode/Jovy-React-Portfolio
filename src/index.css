@@ -19,11 +19,14 @@ main{
 }
 
 body{
-  background: url('./assets/pawel-czerwinski-xepJVQ1olMY-unsplash.jpg') no-repeat;
-  background-position:center;
+  
+  background-image: url('./assets/philip-oroni-KM_SItStu_s-unsplash.jpg')  ;
+  
+  background-position: center;
   background-size: cover;
-  min-height: 100vh;
-  max-width: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+   
   
 }
 .bottom-header { 
@@ -33,4 +36,5 @@ body{
   width : 100%;
   background-color: rgb(174, 63, 63);
   z-index: 1;
+  text-align: center;;
 }
