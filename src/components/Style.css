@@ -135,31 +135,25 @@ main h3{
     
     
 }
+.projects{
+    display : grid;
+    grid-template-columns: auto auto auto;
+}
 
 .project-box{
-    border-radius: 10px;
+    border-radius: 3%;
     border-color: black;
-    background-color: #aed0ff;
+    background-color: #7e8186;
 
-    margin-top: 2%;
-    width: 60%;
+    margin-top: 3%;
+    width: 50%;
     
     
 
     
 }
 .project-box img{
-    width: 20%;
-}
-.project-info{
-    
-    text-align: right;
     width: 100%;
-    position:relative;
-    top: 20%;
-    
+    border-radius: 3%;
 }
-.project-info button{
-    background-color: transparent;
-    border-radius: 5px;
-}
+
