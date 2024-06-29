@@ -7,10 +7,10 @@ export const Nav = () => {
     return (
         <div className='sep'>
             <nav className='navbar homeContent'>
-                <Link to="/">Home</Link>
-                <Link to="Projects">Projects</Link>
-                <Link to="Services">Services</Link>
-                <Link to="Contact">Contact</Link>
+                <Link to="Jovy-React-Portfolio/">Home</Link>
+                <Link to="Jovy-React-Portfolio/Projects">Projects</Link>
+                <Link to="Jovy-React-Portfolio/Services">Services</Link>
+                <Link to="Jovy-React-Portfolio/Contact">Contact</Link>
 
                
             </nav>

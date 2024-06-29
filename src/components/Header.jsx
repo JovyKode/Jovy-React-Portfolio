@@ -16,15 +16,7 @@ const  Header = () => {
                     
                     <Link className="logo" to={"/"}>JOVY</Link>  
                     <button className='social-button'>Socials</button>
-                    {/*<img className='me' src="" alt="me" />*/}
-                    
-                  {/*  <div className='simg'>   
-
-                        <a href='http://google.com'><img src={ig_icon}></img></a>
-                        <a><img src={linkedin}></img></a>
-                        <a><img src={twit}></img>  </a> 
-                        <a><img src={github}></img>  </a> 
-    </div>*/}
+                  
                 </div>
                
             </header>
