@@ -17,13 +17,13 @@ function App() {
       <Header />
       <Nav />
       <Routes>
-            <Route path='Jovy-React-Portfolio//' element={<Home />}  />
+            <Route path='Jovy-React-Portfolio/' element={<Home />}  index="true" />
             <Route path='Jovy-React-Portfolio/Contact' element={<Contact />}/>
             <Route path='Jovy-React-Portfolio/Projects' element={<Projects />}></Route>
             <Route path='Jovy-React-Portfolio/Services' element={<Services />}></Route>
             
       </Routes>
-      <Home />
+     
       <div className='bottom-header'>WEBSITE UNDER CONSTRUCTION </div>
     </div>
 
