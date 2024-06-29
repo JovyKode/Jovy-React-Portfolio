@@ -16,8 +16,8 @@ const Services = () => {
                     <li><img src={office}/>Microsoft Office (word, excel, Powerpoint, Outlook, etc) </li>
                     <li><img src={mobilerepair}/>Phone Repair </li>
                     <li><img src={net}/>Network Setup</li>
-                    <li><img src={webicon}/>Building Scalable Website</li>
-                    <li><img src={appbuild}/>Building mobile and Desktop apps</li> 
+                    <li><img src={webicon}/>Web Design</li>
+                    <li><img src={appbuild}/>Mobile and Desktop Apps Design</li> 
                 </ul>
             </div>
         </main>
