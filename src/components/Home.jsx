@@ -14,18 +14,9 @@ const Home = () => {
         <main>
             <div className='homeContent'>
                 <h3>WELCOME.</h3>
-                <p>Hello my name is Jowayne and am a developer.
-                    what kind of developer you may ask, well
-                    am focusing on frontend but i would classify myself as full stack
-                    but my main goal is backend for it 
-                    has to delve mostly in serverside knowledge with the 
-                    manipulation of data and so on. I like doing cyber security 
-                    concepts for it was my first interest before i learnet about 
-                    other coding fields as in frontend, backend, mobile development 
-                    , games and etc. I shamefully admit i am just starting out to hold my 
-                    foot stead fast in showing what i can do. i believe in this modern 
-                    time that i can do anything as long as you give me enough time 
-                    and i'll get it done on time.  
+                <p>Hello, I'm Jowayne, a dedicated developer with a passion for creating innovative solutions. While my primary focus lies in frontend development, I consider myself a full-stack developer with a strong interest in backend development. My ultimate goal is to specialize in backend development, where I can leverage my skills in server-side knowledge and data manipulation to drive meaningful results.
+
+Prior to exploring various coding fields, my initial fascination was with cybersecurity concepts. This foundation has provided a solid understanding of the importance of secure development practices, which I strive to incorporate into my work. 
                     <br /><br />
                    
                 </p>
