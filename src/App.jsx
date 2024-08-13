@@ -24,7 +24,7 @@ function App() {
             
       </Routes>
      
-      <div className='bottom-header'>WEBSITE UNDER CONSTRUCTION </div>
+      <div className='bottom-header'>&copy; {new Date().getFullYear()} Jowayne Henry. All rights reserved.</div>
     </div>
 
   )
