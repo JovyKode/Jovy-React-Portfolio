@@ -17,7 +17,7 @@
     top : 0;
     left : 0;
     width :100%;
-    padding: 20px 10%;
+    padding: 15px 10%;
     background-color: transparent;
     display : block;
     justify-content: space-between;
@@ -57,6 +57,7 @@
 
 .navbar{ 
     margin-left: 10%;
+    margin-top: 16px;
 }
 .navbar a {
     position: relative;
@@ -123,6 +124,7 @@ main h3{
     
     position : absolute;
     right : 5%;
+    bottom: 30px;
     width: 80px;
     animation : circler infinite;
 
@@ -179,4 +181,28 @@ main h3{
     .image-grid{
         grid-template-columns: repeat(2,1fr);
     }
+
+
+    .socialdrop{
+        
+        position : relative;
+        bottom: 30px;
+        display : flex;
+        
+        left: 10px;
+    
+        
+    }
+    
 }
+
+.socialdrop{
+        position: absolute;
+        display : flex;
+        
+        justify-content: center;
+        align-items: center;
+        right : 5%;
+        top: 105%;
+        
+    }
