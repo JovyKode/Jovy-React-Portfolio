@@ -121,6 +121,7 @@ main h3{
     background-color: transparent;
     border-radius: 10px;
     border-color: aquamarine;
+    color:hsl(186, 66%, 46%);
     
     position : absolute;
     right : 5%;
@@ -129,7 +130,9 @@ main h3{
     animation : circler infinite;
 
 }
-
+.fls{
+    color : hsl(186, 66%, 46%);
+}
 
 .projects{
     display : grid;

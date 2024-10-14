@@ -9,11 +9,11 @@ const Services = () => {
     return (
         <main>
             <h3>Services</h3>
-            <p>Down below consist of Computer services i can provide depandinding on the state of the device\devices when looked at .We can talk about price when device is examined aswell.</p>
+            <p>Down below consist of Computer services i can provide depending on the state of the device\devices when looked at .We can talk about price after device is examined.</p>
             <div className='services'>
                 <ul>
                     <li><img src={windows}/>Computer Repair ,Customization and parts Installation</li>
-                    <li><img src={office}/>Microsoft Office (word, excel, Powerpoint, Outlook, etc) </li>
+                    {/*<li><img src={office}/>Microsoft Office (word, excel, Powerpoint, Outlook, etc) </li>*/}
                     <li><img src={mobilerepair}/>Phone Repair </li>
                     <li><img src={net}/>Network Setup</li>
                     <li><img src={webicon}/>Web Design</li>

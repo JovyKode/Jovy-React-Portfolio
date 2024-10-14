@@ -17,6 +17,7 @@ const Header = () => {
       <header>
         <div className='header'>
           <Link className="logo" to={"/"}>JOVY</Link>
+          <p className='fls'>Full Stack </p>
           <button className='social-button' onClick={drop}>Socials</button>
           {showSocialDropdown && (
             <div className='socialdrop'>
